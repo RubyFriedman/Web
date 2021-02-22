@@ -2,55 +2,32 @@
 IntroCS pd2 sec02
 HW05 Stuylin'
 2021-2-18 */
-/* changes the whole body of the website, including the background color, etc. */
-body {
-	background-color: white;
+
+body {  background-color: white; /* changes the body of the website, including the background color, and organization of the website */
 	font-family: fantasy;
 	border: 2px dotted blue;
 	padding: 40px;
-	border-width: medium;
-}
+	border-width: medium;}
 
-/* changes the heading title only */
-h1 {
-	font-size: 40px;
+h1 {    font-size: 40px;        /* changes the heading title */
 	font-family: sans-serif;
 	color: DarkCyan;
-	text-align:center;
-}
+	text-align:center;}
 
-/* changes the font and color of the subheadings from the TOC */
-h2 {
-	color: DarkCyan;
+h2 {    color: DarkCyan;        /* changes the font and color of all text that is set to h2 */
 	font-family: system-ui;
 	font-size: 25px;
-	font-style: oblique 50deg;
-}
+	font-style: oblique;}
 
-/* changes the color and font of paragraph content */
-p {
-	color: DodgerBlue;
+p {     color: DodgerBlue;      /* changes the color and font of all text set to paragraph */
 	font-family: Georgia, serif;
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: expanded;
-	background-color: "#FFDAF7";
-	
-}
+	background-color: white;}
 
-/* changes how the TOC looks like */
-li {
-	font-style: italic;
+li {    font-style: italic;     /* changes the table of contents color and font */
 	color: CornflowerBlue;
-	font-weight: bold;
-}
+	font-weight: bold;}
 
-/* changes color of TOC text */
-h1 {
-	color: CornflowerBlue;
-}
-
-/* changes color of Thinker text */
-h3 {
-	color: DarkCyan;
-}
+h3 {    color: DarkCyan;}       /* changes the color of all text set to h3 */
