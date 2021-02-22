@@ -31,3 +31,6 @@ li {    font-weight: bold;      /* changes the table of contents color and font 
 
 h3 {    color: DarkCyan;        /* changes the color and font of all text set to h3 */
         font-family: system-ui;}
+
+a  {    font-family: Georgia, serif;
+	font-size: 15px;}
