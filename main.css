@@ -26,9 +26,8 @@ p {     color: DodgerBlue;      /* changes the color and font of all text set to
 	font-stretch: expanded;
 	background-color: white;}
 
-li {    font-style: italic;     /* changes the table of contents color and font */
-	color: CornflowerBlue;
-	font-weight: bold;}
+li {    font-weight: bold;      /* changes the table of contents color and font */
+	color: CornflowerBlue;}
 
 h3 {    color: DarkCyan;        /* changes the color and font of all text set to h3 */
         font-family: system-ui;}
