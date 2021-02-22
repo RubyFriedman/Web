@@ -8,6 +8,7 @@ body {
 	font-family: fantasy;
 	border: 2px dotted blue;
 	padding: 40px;
+	border-width: medium;
 }
 
 /* changes the heading title only */
@@ -41,6 +42,7 @@ p {
 li {
 	font-style: italic;
 	color: CornflowerBlue;
+	font-weight: bold;
 }
 
 /* changes color of TOC text */
