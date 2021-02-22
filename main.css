@@ -20,7 +20,7 @@ h2 {    color: DarkCyan;        /* changes the font and color of all text that i
 	font-style: oblique;}
 
 p {     color: DodgerBlue;      /* changes the color and font of all text set to paragraph */
-	font-family: Georgia, serif;
+	font-family: serif;
 	font-style: normal;
 	font-weight: 400;
 	font-stretch: expanded;
@@ -32,5 +32,5 @@ li {    font-weight: bold;      /* changes the table of contents color and font 
 h3 {    color: DarkCyan;        /* changes the color and font of all text set to h3 */
         font-family: system-ui;}
 
-a  {    font-family: Georgia, serif;
+a  {    font-family: serif;     /* changes the font of all links */
 	font-size: 15px;}
