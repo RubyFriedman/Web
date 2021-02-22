@@ -40,15 +40,15 @@ p {
 /* changes how the TOC looks like */
 li {
 	font-style: italic;
-	color: Aqua;
+	color: CornflowerBlue;
 }
 
 /* changes color of TOC text */
 h1 {
-	color: Aqua;
+	color: CornflowerBlue;
 }
 
 /* changes color of Thinker text */
 h3 {
-	color: Aqua;
+	color: CornflowerBlue;
 }
