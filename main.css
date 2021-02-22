@@ -30,7 +30,5 @@ li {    font-style: italic;     /* changes the table of contents color and font 
 	color: CornflowerBlue;
 	font-weight: bold;}
 
-h3 {    color: DarkCyan;        /* changes the color of all text set to h3 */
-        font-family: system-ui;
-	font-size: 25px;
-	font-style: oblique;}
+h3 {    color: DarkCyan;        /* changes the color and font of all text set to h3 */
+        font-family: system-ui;}
