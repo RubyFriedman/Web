@@ -4,34 +4,34 @@ HW05 Stuylin'
 2021-2-18 */
 /* changes the whole body of the website, including the background color, etc. */
 body {
-	background-color: pink;
-	font-family: sans-serif;
-	border: 2px dotted beige;
-	padding: 30px;
+	background-color: white;
+	font-family: fantasy;
+	border: 2px dotted blue;
+	padding: 40px;
 }
 
 /* changes the heading title only */
-.heading {
+h1 {
 	font-size: 40px;
-	font-family: courier;
-	color: GoldenRod;
+	font-family: sans-serif;
+	color: AliceBlue;
 	text-align:center;
 }
 
 /* changes the font and color of the subheadings from the TOC */
 h2 {
-	color: GoldenRod;
+	color: AliceBlue;
 	font-family: system-ui;
-	font-size: 20px;
+	font-size: 25px;
 	font-style: oblique 50deg;
 }
 
 /* changes the color and font of paragraph content */
 p {
-	color: SaddleBrown;
+	color: DodgerBlue;
 	font-family: Georgia, serif;
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 400;
 	font-stretch: expanded;
 	background-color: "#FFDAF7";
 	
@@ -40,15 +40,15 @@ p {
 /* changes how the TOC looks like */
 li {
 	font-style: italic;
-	color: "#E9967A";
+	color: Aqua;
 }
 
 /* changes color of TOC text */
 h1 {
-	color: SaddleBrown;
+	color: Aqua;
 }
 
 /* changes color of Thinker text */
 h3 {
-	color: SaddleBrown;
+	color: Aqua;
 }
